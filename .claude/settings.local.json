@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cmd /c \"mkdir \"C:\\\\Users\\\\Satish\\\\Desktop\\\\AI Newsletter\\\\.github\\\\workflows\" \"C:\\\\Users\\\\Satish\\\\Desktop\\\\AI Newsletter\\\\scraper\" \"C:\\\\Users\\\\Satish\\\\Desktop\\\\AI Newsletter\\\\pipeline\" \"C:\\\\Users\\\\Satish\\\\Desktop\\\\AI Newsletter\\\\graph\" \"C:\\\\Users\\\\Satish\\\\Desktop\\\\AI Newsletter\\\\email\" 2>nul & echo done\")",
+      "Bash(cmd /c \"dir /s /b \"C:\\\\Users\\\\Satish\\\\Desktop\\\\AI Newsletter\" 2>nul\")"
+    ]
+  }
+}
