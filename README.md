@@ -1,7 +1,6 @@
 # AI Newsletter Pipeline
 
-A fully-automated newsletter built entirely on free-tier services — no credit card required.
-
+A fully-automated newsletter built entirely on free-tier services
 ```
 GitHub Actions (scheduler) → Python (scraper + orchestrator)
   → Groq API / Llama 3.3 70B (summarise / score / categorise)
